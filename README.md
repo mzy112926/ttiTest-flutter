@@ -2,15 +2,17 @@
 
 ttiTest
 
-## Getting Started
+### Problems encountered
 
-This project is a starting point for a Flutter application.
+The last time I wrote about Flutter was a year ago, and I was a little rusty at first.
 
-A few resources to get you started if this is your first Flutter project:
+I found the project I had written and went over it.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**The biggest problem with flutter is that the flutter has been greatly updated and the syntax has changed a lot.**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Because swift debugged API, it is relatively simple docking.
+
+
+### Time spent
+
+In total, I spent one day, one hour looking at the old code, two hours debugging the API, and the rest drawing the UI
