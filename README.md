@@ -1,6 +1,6 @@
 # ttitest
 
-ttiTest
+a test demo for tti
 
 ### Problems encountered
 
